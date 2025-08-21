@@ -1,0 +1,29 @@
+  p{
+        color:silver
+   }
+
+   #d1{
+    background-color: black;
+   }
+
+   .blue{
+    background-color: blue;
+   }
+
+   .size18{
+   font-size: 35px ;
+   text-align: center;
+   font-style: italic;
+   }
+
+   div p{
+    font-size: 50px;
+   }
+
+   div:hover{
+    background-color: gold;
+   }
+
+   a:visited{
+    color: red;
+   }

@@ -1,0 +1,13 @@
+#container{
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+
+.item{
+    background-color:rgba(0, 0, 139, 0.438);
+    padding: 10px;
+    margin: 10px;
+}

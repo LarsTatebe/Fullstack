@@ -1,0 +1,67 @@
+#assine{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+}
+
+.topo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+    
+}
+
+.topo2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.topo3{
+    display: flex;
+    justify-content: space-between;
+    border-style: inset
+}
+
+.noticias{
+    display: flex;
+    flex-direction: column;
+}
+
+.carro{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    
+}
+
+.textocarro{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: red;
+
+}
+
+.noticia2{
+    display: flex;
+    background-color: red;
+    color: white;
+    justify-self: right;
+}
+
+.noticia3{
+    display: flex;
+    background-color: red;
+    color: white;
+    justify-self: right;
+}
+
+.grande{
+    display: block;
+}

@@ -1,0 +1,148 @@
+body{margin: 0;}
+
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-around;
+    border: 1px grey;
+    border-style: outset;
+    margin: 0;
+    padding: 10px;
+    border-top: none;
+    border-left: none;
+    border-right:  none;
+}
+
+.meio{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin-left: 500px;
+}
+
+.divisor{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin-left: 500px; 
+}
+
+.title{
+    color: black;
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    m argin-left: 500px;
+    font-weight: bolder;
+}
+
+.subtitle{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin-left: 500px;
+}
+
+#um{
+   box-shadow: 3px 3px 3px black;
+
+}
+
+#dois{
+    box-shadow: 3px 3px 3px black;
+}
+
+#tres{
+    box-shadow: 3px 3px 3px black;
+}
+
+.receitas{
+    padding: 10px;
+    margin-left: 500px;
+}
+
+.receita1{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+}
+
+.estrela{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{
+    display: flex;
+    background-color: beige;
+    padding: 10px;
+    flex-direction: column;
+}
+
+#final{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#ultimo{
+    display: flex;
+    font-size: small;
+    color: black;
+    justify-content: space-around;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#preto{
+    color: black;
+}

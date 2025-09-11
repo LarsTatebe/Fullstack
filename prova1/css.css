@@ -50,20 +50,23 @@ a{
 
 #um{
    box-shadow: 3px 3px 3px black;
+   padding-left: 100px;
 
 }
 
 #dois{
     box-shadow: 3px 3px 3px black;
+    margin-right: 100px;
 }
 
 #tres{
     box-shadow: 3px 3px 3px black;
+    margin-right: 100px;
 }
 
 .receitas{
     padding: 10px;
-    margin-left: 500px;
+    margin-right: 100px;
 }
 
 .receita1{

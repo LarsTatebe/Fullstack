@@ -57,7 +57,25 @@ h2{
 }
 
 .EEEE{
-    display: inline-block;
+    display: flex;
     justify-content: center;
+    padding-top: 25px;
+    
+}
+
+.FFFF{
     background-color: yellow;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+
+.rodape2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Comic Sans MS", "Comic Sans", serif;
 }
